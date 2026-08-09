@@ -9,4 +9,5 @@ This project demonstrates a simple CI/CD pipeline using GitHub Actions to automa
 ## Live Demo
 https://imansabet.github.io/gh-deployment-workflow/
 
-
+you will see something like this : 
+![Uploading image.png…]()
