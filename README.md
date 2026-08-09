@@ -7,6 +7,6 @@ This project demonstrates a simple CI/CD pipeline using GitHub Actions to automa
 - The site is automatically deployed to GitHub Pages
 
 ## Live Demo
-https://USERNAME.github.io/gh-deployment-workflow/
+https://imansabet.github.io/gh-deployment-workflow/
 
 
